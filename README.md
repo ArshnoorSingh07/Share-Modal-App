@@ -19,4 +19,4 @@ A clean and responsive profile card with a modal popup for sharing via social pl
 
 ## Usage
 
-Open `index.html` in a browser and click "Share My Profile" to see the modal in action.
+Open `index.html` in a browser and click "Share My Profile" to see the modal in action
